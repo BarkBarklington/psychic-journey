@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://BarkBarklington.github.io/sitemap.xml

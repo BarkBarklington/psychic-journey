@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Wags</title>
+    <link href="https://BarkBarklington.github.io/feed.xml" rel="self" />
+    <link href="https://BarkBarklington.github.io" />
+    <updated>2025-06-02T23:05:52-04:00</updated>
+    <author>
+        <name>Wags</name>
+    </author>
+    <id>https://BarkBarklington.github.io</id>
+
+    <entry>
+        <title>Wags</title>
+        <author>
+            <name>Wags</name>
+        </author>
+        <link href="https://BarkBarklington.github.io/wags.html"/>
+        <id>https://BarkBarklington.github.io/wags.html</id>
+
+        <updated>2025-06-02T23:05:52-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Wags
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Wags</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

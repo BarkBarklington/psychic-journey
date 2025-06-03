@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Wags",
     "description": "",
-    "home_page_url": "https://BarkBarklington.github.io",
-    "feed_url": "https://BarkBarklington.github.io/feed.json",
+    "home_page_url": "https://BarkBarklington.github.io/psychic-journey",
+    "feed_url": "https://BarkBarklington.github.io/psychic-journey/feed.json",
     "user_comment": "",
     "author": {
         "name": "Wags"
     },
     "items": [
         {
-            "id": "https://BarkBarklington.github.io/wags.html",
-            "url": "https://BarkBarklington.github.io/wags.html",
+            "id": "https://BarkBarklington.github.io/psychic-journey/wags.html",
+            "url": "https://BarkBarklington.github.io/psychic-journey/wags.html",
             "title": "Wags",
             "summary": "Wags",
             "content_html": "<p>Wags</p>",
